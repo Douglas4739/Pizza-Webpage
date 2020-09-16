@@ -9,11 +9,20 @@ ul{
   text-align: left;
 }
 
-h1,h2,h3{
+h1,h2{
   background: silver;
   border: 12px;
   width: 300px;
+  text-align: center;
 }
+
+h3{
+  background: silver;
+  border: 12px;
+  width: 150px;
+  text-align: center;
+}
+
 
 a:link {color:blue}
 a:visited {color:purple}
