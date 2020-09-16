@@ -1,0 +1,21 @@
+p{
+  background:rgb(133, 72, 32);
+  border: 15px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+ul{
+  text-align: left;
+}
+
+h1,h2,h3{
+  background: silver;
+  border: 12px;
+  width: 300px;
+}
+
+a:link {color:blue}
+a:visited {color:purple}
+a:hover {color: violet}
+a:active {color:blueviolet}
